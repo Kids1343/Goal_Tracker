@@ -1,3 +1,4 @@
+![Goal_Tracker Screenshot](public/Goal_Tracker.png)
 ### Downloading code snapshots
 
 You can download all the content of a branch via the "Code" button here on Github. You can then either [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) the repository or simply download the selected branch content as a ZIP file.
